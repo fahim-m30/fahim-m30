@@ -28,6 +28,19 @@
 
 ---
 
+### 💡 The Innovation Mindset: Applying Intellect to Novel Ideas
+
+> *"Great engineering is not about following existing templates—it is about rigorous first-principles thinking, questioning assumptions, and applying human intellect to transform original, bold ideas into real-world systems."*
+
+I thrive when faced with unexplored problems. Rather than relying solely on conventional methods, I leverage deep analytical thinking to build innovative solutions at the intersection of **scalable software systems** and **intelligent machine learning**:
+- 🧠 **0-to-1 Innovation:** Designing custom architectures from first principles rather than blindly copying standard patterns.
+- 🔬 **Interdisciplinary Research:** Translating rigorous academic concepts (Federated Learning, Imbalance Handling, SHAP/LIME Explainability) into practical, production-ready code.
+- 💡 **Originality & Execution:** Continuously applying my mind to test novel hypotheses—solving hard engineering bottlenecks where off-the-shelf tools fall short.
+
+🤝 **Open For:** Innovative R&D initiatives, challenging 0-to-1 engineering, and brainstorming bold technical ideas with forward-thinking teams.
+
+---
+
 ### 🛠️ Technical Repertoire
 
 #### 💻 Programming Languages
