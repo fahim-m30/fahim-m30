@@ -4,7 +4,7 @@
 
   ### Software Engineer & Tech Researcher
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Federated+Learning+%26+Medical+AI+Researcher;IEEE+SPICSCON+2026+Published+Author;Turning+Complex+Systems+into+Clean+Code)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+%26+Go+Developer;Federated+Learning+%26+Medical+AI+Researcher;IEEE+SPICSCON+2026+Published+Author;Turning+Complex+Systems+into+Clean+Code)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://fahim-m30.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-fahim--m30.github.io-d97706?style=for-the-badge" alt="Portfolio"/></a>
@@ -24,7 +24,7 @@
 - 💻 **Engineering:** Crafting scalable full-stack web applications with **React, Node.js, Express & MongoDB**.
 - 🏆 **Academic Research:** Published author at **2026 IEEE SPICSCON** on decentralized network intrusion detection.
 - ⚡ **Philosophy:** Clean, production-ready code with robust architectural clarity and zero fluff.
-- 💬 **Ask me about:** MERN Stack, Python, Machine Learning, System Architecture, Network Security.
+- 💬 **Ask me about:** Go (Golang), MERN Stack, Python, Machine Learning, System Architecture, Network Security.
 
 ---
 
