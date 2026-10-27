@@ -4,7 +4,7 @@
 
   ### Software Engineer & Tech Researcher
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+%26+Go+Developer;Federated+Learning+%26+Medical+AI+Researcher;IEEE+SPICSCON+2026+Published+Author;Turning+Complex+Systems+into+Clean+Code)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full-Stack+Next.js+%26+MERN+Engineer;Enterprise+RestoOS+ERP+Architect;Federated+Learning+%26+Medical+AI+Researcher;IEEE+SPICSCON+2026+Published+Author;Turning+Complex+Systems+into+Clean+Code)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://fahim-m30.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-fahim--m30.github.io-d97706?style=for-the-badge" alt="Portfolio"/></a>
@@ -21,10 +21,10 @@
 ### 💫 About Me
 
 - 🔭 **Current Focus:** Researching privacy-preserving **Federated Learning** & **Explainable Medical AI (Brain MRI)**.
-- 💻 **Engineering:** Crafting scalable full-stack web applications with **React, Node.js, Express & MongoDB**.
+- 💻 **Engineering:** Architecting scalable full-stack web platforms and multi-actor enterprise ERP/POS systems with **Next.js 16, TypeScript, React, Node.js, Express & Prisma**.
 - 🏆 **Academic Research:** Published author at **2026 IEEE SPICSCON** on decentralized network intrusion detection.
 - ⚡ **Philosophy:** Clean, production-ready code with robust architectural clarity and zero fluff.
-- 💬 **Ask me about:** Go (Golang), MERN Stack, Python, Machine Learning, System Architecture, Network Security.
+- 💬 **Ask me about:** Next.js 16, TypeScript, Prisma, MERN Stack, Go (Golang), Python, Machine Learning, System Architecture, Network Security.
 
 ---
 
@@ -45,9 +45,10 @@ I thrive when faced with unexplored problems. Rather than relying solely on conv
 
 #### 💻 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Go_(Golang)-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
@@ -65,15 +66,17 @@ I thrive when faced with unexplored problems. Rather than relying solely on conv
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### 🧠 Machine Learning & Data
+#### 🧠 Machine Learning & Databases
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Federated_Learning-d97706?style=flat-square" alt="FL"/>
   <img src="https://img.shields.io/badge/Explainable_AI_(SHAP%2FLIME)-10B981?style=flat-square" alt="XAI"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 #### 🛠️ Dev Tools & Environments
@@ -91,6 +94,7 @@ I thrive when faced with unexplored problems. Rather than relying solely on conv
 
 | Project | Stack | Key Architecture & Highlights | Links |
 | :--- | :--- | :--- | :---: |
+| **RestoOS (Restaurant ERP & POS)** | Next.js 16, TypeScript, Prisma, Tailwind | Full-featured enterprise multi-actor ERP with role portals (Admin, Cashier, Waiter, KDS Chef, Rider), live table floor plans, auto recipe inventory deduction & P&L accounting. | [Repository ↗](https://github.com/fahim-m30/Restaurant-Management-System) |
 | **Smart Playground Booking** | React, Node.js, MongoDB | Real-time facility booking calendar, dynamic slot locking & automated tournament brackets. | [Live Demo ↗](https://smart-playground-booking-tournament.vercel.app/login.html) |
 | **Shop Manager (POS Suite)** | React, Node.js, MongoDB | Real-time retail inventory tracking, POS checkout, revenue analytics & PDF receipt invoicing. | [Live Demo ↗](https://shop-manager-bd.vercel.app/) |
 | **Online Flight Reservation** | PHP, MySQL, DFD | Scalable airline reservation engine with multi-criteria route search & PDF boarding pass generation. | [Repository ↗](https://github.com/fahim-m30/Online-flight-Booking-Management-System-) |
