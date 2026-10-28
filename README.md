@@ -94,6 +94,7 @@ I thrive when faced with unexplored problems. Rather than relying solely on conv
 
 | Project | Stack | Key Architecture & Highlights | Links |
 | :--- | :--- | :--- | :---: |
+| **Blueprint Learning Academy** | Next.js 14, TypeScript, Express, MongoDB | Full-stack EdTech LMS with dual student/admin portals, bKash/Nagad TrxID payment validation, automated credential emails & homework grading. | [Live Demo ↗](https://blueprint-learning-academy.vercel.app) |
 | **RestoOS (Restaurant ERP & POS)** | Next.js 16, TypeScript, Prisma, Tailwind | Full-featured enterprise multi-actor ERP with role portals (Admin, Cashier, Waiter, KDS Chef, Rider), live table floor plans, auto recipe inventory deduction & P&L accounting. | [Repository ↗](https://github.com/fahim-m30/Restaurant-Management-System) |
 | **Smart Playground Booking** | React, Node.js, MongoDB | Real-time facility booking calendar, dynamic slot locking & automated tournament brackets. | [Live Demo ↗](https://smart-playground-booking-tournament.vercel.app/login.html) |
 | **Shop Manager (POS Suite)** | React, Node.js, MongoDB | Real-time retail inventory tracking, POS checkout, revenue analytics & PDF receipt invoicing. | [Live Demo ↗](https://shop-manager-bd.vercel.app/) |
