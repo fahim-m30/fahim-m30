@@ -116,8 +116,8 @@ I thrive when faced with unexplored problems. Rather than relying solely on conv
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahim-m30&show_icons=true&theme=radical&hide_border=true&bg_color=0d0b09&title_color=f59e0b&icon_color=fbbf24&text_color=c9baa8" height="165" alt="Fahim's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-m30&layout=compact&theme=radical&hide_border=true&bg_color=0d0b09&title_color=f59e0b&text_color=c9baa8&hide=hack" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=fahim-m30&show_icons=true&theme=radical&hide_border=true&bg_color=0d0b09&title_color=f59e0b&icon_color=fbbf24&text_color=c9baa8" height="165" alt="Fahim's GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=fahim-m30&layout=compact&theme=radical&hide_border=true&bg_color=0d0b09&title_color=f59e0b&text_color=c9baa8&hide=hack" height="165" alt="Top Languages"/>
 </div>
 
 <p align="center">
