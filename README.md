@@ -11,6 +11,7 @@
     <a href="https://linkedin.com/in/fahim-muntasir-086b0b26b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:fmuntasir488@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://wa.me/8801581876432"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <img src="https://komarev.com/ghpvc/?username=fahim-m30&color=d97706&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
   
   📍 **Dhaka, Bangladesh** • 🎓 **B.Sc in CSE @ IUBAT** (CGPA: 3.50/4.00) • 💼 Ex-Software Engineer Intern @ **Zentura Agency**
