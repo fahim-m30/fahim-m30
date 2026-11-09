@@ -121,10 +121,6 @@ I thrive when faced with unexplored problems. Rather than relying solely on conv
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fahim-m30&layout=compact&theme=radical&hide_border=true&bg_color=0d0b09&title_color=f59e0b&text_color=c9baa8&hide=hack" height="165" alt="Top Languages"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-m30&theme=radical&hide_border=true&background=0d0b09&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <div align="center">
